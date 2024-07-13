@@ -1,0 +1,3 @@
+environment,url
+stage,http://bs-local.com:45454/
+production,https://www.bstackdemo.com
